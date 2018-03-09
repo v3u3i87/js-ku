@@ -1,0 +1,21 @@
+{
+  "name": "js-ku",
+  "version": "0.0.1",
+  "title": "JavaScript ku",
+  "description": "JavaScript ku implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.",
+  "keywords": [
+    "javascript",
+    "ku"
+  ],
+  "homepage": "https://github.com/v3u3i87/js-ku",
+  "author": {
+    "name": "Richard Zhang",
+    "url": "zmq.cc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/v3u3i87/js-ku.git"
+  },
+  "license": "MIT",
+  "main": "js/ku.js"
+}
