@@ -1,6 +1,6 @@
 {
   "name": "js-ku",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "JavaScript ku",
   "description": "JavaScript ku implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.",
   "keywords": [
